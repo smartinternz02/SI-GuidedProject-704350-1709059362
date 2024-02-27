@@ -24,7 +24,7 @@ Welcome to the Katalon-powered Amazon Test Automation project! This initiative a
 - **Test Data Preparation:**
   - Create a Validation Table for efficient data handling. 
 
-## 🛠️ Script/Test Case Execution
+##  Script/Test Case Execution
 
 - **Handling and Validating Buttons:**
   - Implementing robust button handling in automation scripts. 
@@ -49,7 +49,7 @@ Welcome to the Katalon-powered Amazon Test Automation project! This initiative a
   - Implement automated report generation and analysis. 
 
 - **Email Notifications:**
-  - Receive test reports via email for quick insights. 📧
+  - Receive test reports via email for quick insights. 
 
 ##  Prior Knowledge
 
